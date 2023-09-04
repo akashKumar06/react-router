@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"Stunt Man, The    ","image":"https://th.bing.com/th?id=OIP.toFHatWzzHCTudAK_7p4JAHaEU&w=210&h=122&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2","date":"2023-09-22","description":"Hello ok good","id":"75de0db5-879a-435e-ab4e-7783fe79cb94"},{"title":"Redux Tutorial!!","image":"https://wallpapercave.com/wp/wp7488275.jpg","date":"2023-09-22","description":"Hello","id":"ca6027a0-fbdb-4025-be10-a161ae6e13e3"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
